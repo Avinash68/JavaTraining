@@ -1,0 +1,13 @@
+
+public class Maths {
+	public void add(int a, int b) {
+		int result = a + b;
+		System.out.println("The addition is " + result);
+	}
+
+	public void multiply(int a, int b) {
+		int result = a * b;
+		System.out.println("The multiplication is " + result);
+	}
+
+}
